@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "feryapp",
-    "slug": "feryapp",
+    "name": "tegarapp",
+    "slug": "tegarapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,14 +22,14 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.bengkel.ti.feryapp"
+      "package": "com.bengkel.ti.tegarapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "d26ee485-efc3-49e1-9211-f8c546720760"
+        "projectId": "ae04cca6-7933-44f0-b099-187f5b224ce8"
       }
     }
   }
